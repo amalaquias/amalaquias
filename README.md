@@ -2,12 +2,15 @@
 
 Welcome! 
 
-Listed below are references to my research from June 2021-September 2024.  
+Listed below are references to my research from June 2021-September 2024 (in chronological order).  
 I can also provide the repos for my class projects upon request.
 
 _My offical academic website coming soon..._
 
 ### Media
+A blog of my experience with deploying a node in Hawaii:  
+https://sagecontinuum.org/news/2023/10/31/Hawaiian-Community
+
 A featured story by Argonne National Laboratory:  
 https://www.anl.gov/article/from-wildfires-to-bird-calls-sage-redefines-environmental-monitoring
 
@@ -16,9 +19,6 @@ https://cs.uchicago.edu/news/from-wildfires-to-bird-calls-sage-redefines-environ
 
 My evaluation of RAG and LLMs:  
 https://sagecontinuum.org/science/recent/llm-generation
-
-A blog of my experience with deploying a node in Hawaii:  
-https://sagecontinuum.org/news/2023/10/31/Hawaiian-Community
 
 ### Code
 The first version of the Student Sage Node:  
@@ -38,8 +38,9 @@ https://github.com/amalaquias/summer2024/tree/main/aldo
 
 ---
 If the sagecontinuum.org links are no longer available, please follow these:  
-https://github.com/waggle-sensor/sage-website/blob/55d26cdd42ba91e13a7fc53c2a3caf8123e30a89/science/recent/llm-generation.md  
+https://github.com/waggle-sensor/sage-website/blob/55d26cdd42ba91e13a7fc53c2a3caf8123e30a89/news/2023-10-31-Hawaiian-Community.md  
 
-https://github.com/waggle-sensor/sage-website/blob/55d26cdd42ba91e13a7fc53c2a3caf8123e30a89/news/2023-10-31-Hawaiian-Community.md
+
+https://github.com/waggle-sensor/sage-website/blob/55d26cdd42ba91e13a7fc53c2a3caf8123e30a89/science/recent/llm-generation.md  
 
 Thank you.
