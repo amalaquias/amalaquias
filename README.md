@@ -20,6 +20,9 @@ https://cs.uchicago.edu/news/from-wildfires-to-bird-calls-sage-redefines-environ
 My evaluation of RAG and LLMs:  
 https://sagecontinuum.org/science/recent/llm-generation
 
+My interview with SparkShop:  
+https://youtu.be/mUu2OtplU-I
+
 ### Code
 The first version of the Student Sage Node:  
 https://github.com/ddiLab/SageEdu/tree/main
